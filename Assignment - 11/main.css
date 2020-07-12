@@ -1,0 +1,27 @@
+table{
+    width: 90vw;
+    margin-left: 5vw;
+    height: 90vh;
+}
+
+tbody{
+    height: 80vh;
+}
+
+th{
+    height: 10vh;
+    text-align: start;
+    font-size: 2rem;
+}
+
+td{
+    text-align: center;
+    font-size: 2rem;
+    width: 10%;
+}
+
+input{
+    width: 90%;
+    margin-left: 1%;
+    height: 90%;
+}
